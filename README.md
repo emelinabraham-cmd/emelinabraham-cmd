@@ -1,5 +1,13 @@
 # 👋 Hi, I’m Emelin Abraham
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;CI%2FCD+%7C+Docker+%7C+Kubernetes;Building+Reliable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+</p>
+
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 🎓 First-year student | 🧑‍💻 DevOps Intern at **Nexoris Solutions** (Startup)
 
@@ -7,16 +15,9 @@
 
 ## 🧠 About Me
 
-I am a **DevOps Engineer in the making**, focused on **cloud infrastructure, automation, and reliability**. I work at the intersection of **development and operations**, ensuring that software is **buildable, deployable, scalable, and stable**.
+I work on **automating, deploying, and scaling systems** in cloud-native environments. My focus is on **reliability, repeatability, and clean automation** rather than application-heavy development.
 
-I enjoy:
-
-* Automating repetitive tasks
-* Designing clean CI/CD pipelines
-* Working with containers and cloud platforms
-* Understanding systems deeply rather than memorizing tools
-
-This GitHub documents my **hands-on DevOps journey** — every project here is built to reflect **real-world practices**, not just tutorials.
+This GitHub reflects **real DevOps work** — infrastructure, pipelines, containers, and cloud setups.
 
 ---
 
@@ -24,78 +25,34 @@ This GitHub documents my **hands-on DevOps journey** — every project here is b
 
 ### 🧑‍💻 DevOps / Cloud Intern — Nexoris Solutions
 
-* Working in a **startup environment**, learning real production workflows
-* Assisting with **CI/CD automation**, cloud setups, and deployment processes
-* Improving system reliability and deployment efficiency
-* Rapidly adapting to new tools and stacks as required
+* Working in a **startup production environment**
+* Contributing to **CI/CD automation and cloud deployments**
+* Assisting with containerized workflows and system reliability
+* Learning fast and shipping improvements
 
 ---
 
-## 🎯 Professional Focus
+## 🛠️ Tech Stack
 
-**Role:** DevOps Engineer (Cloud & Automation Focused)
-
-I specialize in:
-
-* Infrastructure automation
-* CI/CD pipelines
-* Containerized deployments
-* Cloud-native systems
-
-I do **not** focus on:
-
-* Frontend development
-* Application-heavy backend coding
-* Algorithm/DSA-intensive roles
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,bash,python" />
+</p>
 
 ---
 
-## 🧱 Technical Skill Stack
+## 🧱 What I Do (DevOps Flow)
 
-### 🐧 Linux
+```mermaid
+flowchart LR
+    A[Code Commit] --> B[CI Pipeline]
+    B --> C[Docker Build]
+    C --> D[Container Registry]
+    D --> E[Kubernetes Deployment]
+    E --> F[Cloud Infrastructure]
+    F --> G[Monitoring & Alerts]
+```
 
-* Daily terminal usage
-* File systems, permissions, processes
-* Basic networking & troubleshooting
-
-### 🔧 Git & GitHub
-
-* Version control workflows
-* Branching strategies
-* Pull requests & reviews
-* CI/CD integration
-
-### 🐳 Docker
-
-* Dockerfiles
-* Image creation & optimization
-* Docker Compose
-* Containerized application workflows
-
-### ⚙️ CI/CD
-
-* GitHub Actions / Jenkins
-* Automated build, test, and deploy pipelines
-* Environment-based deployments
-
-### ☁️ Cloud (AWS)
-
-* EC2, S3, IAM
-* Basic networking concepts
-* Secure and cost-aware deployments
-
-### ☸️ Kubernetes
-
-* Pods, Deployments, Services
-* Scaling & self-healing concepts
-* Kubernetes YAML configurations
-
-### 🤖 Automation & IaC
-
-* Bash scripting
-* Light Python automation
-* YAML-based configuration
-* Terraform (foundational usage)
+> From **commit to production**, fully automated.
 
 ---
 
@@ -103,59 +60,94 @@ I do **not** focus on:
 
 ### 🔹 Cloud-Native CI/CD Pipeline
 
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
 * Dockerized application
-* Automated CI/CD using GitHub Actions
+* Automated CI/CD with GitHub Actions
 * Cloud deployment on AWS
-* Zero-manual deployment workflow
+* Zero manual release steps
+
+---
 
 ### 🔹 Kubernetes Application Deployment
 
-* Container orchestration using Kubernetes
-* Scalable deployments
-* Service exposure & traffic management
+<p align="left">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
+</p>
 
-### 🔹 Infrastructure as Code Setup
+* Kubernetes Deployments & Services
+* Auto-scaling & self-healing
+* Production-style YAML configs
 
-* Cloud resources provisioned using Terraform
-* Repeatable and version-controlled infrastructure
+---
 
-📌 Each project focuses on **real-world DevOps scenarios** and production-style setups.
+### 🔹 Infrastructure as Code (Terraform)
+
+<p align="left">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="350" />
+</p>
+
+* AWS infrastructure via Terraform
+* Repeatable, version-controlled infra
+* Clean state management
+
+---
+
+## 📊 GitHub Activity & Commit Viewer
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emelinabraham&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emelinabraham&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emelinabraham&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧠 DevOps Mindset
 
-* Infrastructure as code over manual configuration
-* Automation before repetition
-* Reliability over shortcuts
-* Learning by building
+```mermaid
+mindmap
+  root((DevOps))
+    Automation
+      CI/CD
+      IaC
+    Reliability
+      Monitoring
+      Self-Healing
+    Cloud
+      AWS
+      Scaling
+    Containers
+      Docker
+      Kubernetes
+```
 
-> “If it breaks, I learn *why* — then I automate the fix.”
-
----
-
-## 📚 How I Learn & Build
-
-* Concept → implementation → documentation
-* Minimal theory, maximum hands-on
-* One tool at a time, used properly
+> **Automate first. Debug deeply. Scale safely.**
 
 ---
 
 ## 🤝 What I Bring to a Team
 
-* Fast learner in dynamic environments
-* Strong debugging and problem-solving approach
-* Focus on automation and efficiency
-* Clear documentation and clean repositories
+* Strong ownership mindset
+* Automation-focused problem solving
+* Clear documentation & clean repos
+* Comfortable with production systems
 
 ---
 
-## 🔮 What I’m Working Toward
+## 🔮 Growth Path
 
-* Becoming a **reliable DevOps Engineer** trusted with production systems
-* Growing into **SRE / Cloud Architect** responsibilities over time
-* Continuously improving system scalability and resilience
+* DevOps Engineer → Senior DevOps / SRE
+* Deeper cloud architecture & reliability work
+* Platform & infrastructure ownership
 
 ---
 
@@ -166,4 +158,4 @@ I do **not** focus on:
 
 ---
 
-🚧 **This profile is actively evolving as I continue building, learning, and shipping real DevOps solutions.**
+🚧 **This profile evolves as I continue shipping real-world DevOps systems.**
