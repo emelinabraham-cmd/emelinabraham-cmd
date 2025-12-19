@@ -98,15 +98,15 @@ flowchart LR
 ## 📊 GitHub Activity & Commit Viewer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emelinabraham&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emelinabraham-cmd&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emelinabraham&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emelinabraham-cmd&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emelinabraham&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emelinabraham-cmd&theme=tokyonight" />
 </p>
 
 ---
