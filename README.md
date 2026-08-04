@@ -154,7 +154,7 @@ mindmap
 ## 📬 Let’s Connect
 
 * 🌐 GitHub: This profile
-* 🏢 Organization: Nexoris Solutions
+  
 
 ---
 
